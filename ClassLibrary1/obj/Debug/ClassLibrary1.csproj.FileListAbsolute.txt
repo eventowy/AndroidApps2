@@ -1,0 +1,6 @@
+D:\Users\damian.wojcik\source\repos\WpfApp1\ClassLibrary1\bin\Debug\Core.dll
+D:\Users\damian.wojcik\source\repos\WpfApp1\ClassLibrary1\bin\Debug\Core.pdb
+D:\Users\damian.wojcik\source\repos\WpfApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\Users\damian.wojcik\source\repos\WpfApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Users\damian.wojcik\source\repos\WpfApp1\ClassLibrary1\obj\Debug\Core.dll
+D:\Users\damian.wojcik\source\repos\WpfApp1\ClassLibrary1\obj\Debug\Core.pdb
